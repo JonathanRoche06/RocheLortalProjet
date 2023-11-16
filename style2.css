@@ -324,7 +324,7 @@
 
 .macbook-air .text-prix-15 {
   width: 63px;
-  top: 859px;
+  top: 846px;
   left: 864px;
   font-family: "Manuale-ExtraBold", Helvetica;
   font-weight: 800;
@@ -338,7 +338,7 @@
 .macbook-air .alexej-von-jawlensky {
   position: absolute;
   width: 350px;
-  top: 764px;
+  top: 745px;
   left: 457px;
   font-family: "Manuale-Regular", Helvetica;
   font-weight: 400;
@@ -351,7 +351,7 @@
 .macbook-air .edvard-munch-huile {
   position: absolute;
   width: 350px;
-  top: 770px;
+  top: 760px;
   left: 864px;
   font-family: "Manuale-Regular", Helvetica;
   font-weight: 400;
@@ -386,10 +386,21 @@
   letter-spacing: 0;
   line-height: normal;
 }
+.macbook-air .vincent-van-gogh {
+ top: 1600px;
+  left: 56px;
+  position: absolute;
+  font-family: "Manuale-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
 
 .macbook-air .text-prix-16 {
   width: 101px;
-  top: 1652px;
+  top: 1680px;
   left: 868px;
   font-family: "Manuale-Bold", Helvetica;
   font-weight: 700;
@@ -402,7 +413,7 @@
 
 .macbook-air .text-prix-17 {
   width: 84px;
-  top: 1659px;
+  top: 1680px;
   left: 56px;
   font-family: "Manuale-Bold", Helvetica;
   font-weight: 700;
@@ -414,9 +425,8 @@
 }
 
 .macbook-air .text-prix-18 {
-  width: 101px;
-  height: 29px;
-  top: 1658px;
+  width: 84px;
+  top: 1680px;
   left: 457px;
   font-family: "Manuale-Bold", Helvetica;
   font-weight: 700;
