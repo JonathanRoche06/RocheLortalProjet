@@ -30,7 +30,7 @@
   left: 0;
 }
 
-.macbook-air .text-wrapper {
+.macbook-air .text-menu {
   width: 106px;
   top: 13px;
   left: 1103px;
@@ -43,7 +43,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-wrapper-2 {
+.macbook-air .text-menu-2 {
   width: 130px;
   top: 13px;
   left: 949px;
@@ -57,7 +57,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-wrapper-3 {
+.macbook-air .text-menu-3 {
   width: 106px;
   top: 14px;
   left: 811px;
@@ -70,7 +70,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-wrapper-4 {
+.macbook-air .text-menu-4 {
   width: 106px;
   top: 14px;
   left: 673px;
@@ -83,7 +83,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-wrapper-5 {
+.macbook-air .text-menu-5 {
   width: 131px;
   top: 14px;
   left: 495px;
@@ -96,7 +96,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-wrapper-6 {
+.macbook-air .text-menu-6 {
   position: absolute;
   width: 275px;
   top: 14px;
