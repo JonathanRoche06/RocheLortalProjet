@@ -1,3 +1,7 @@
+.body{
+  margin:auto;
+}
+
 .accueil-dekstop {
   background-color: #ffffff;
   display: flex;
