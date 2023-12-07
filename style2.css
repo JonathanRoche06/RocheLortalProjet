@@ -187,11 +187,11 @@
   object-fit: cover;
 }
 
-.macbook-air .img {
+.macbook-air .img .image-5{
   position: absolute;
   width: 340px;
   height: 467px;
-  top: 400px;
+  top: 2000px;
   left: 200px;
   object-fit: cover;
 }
