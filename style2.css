@@ -187,6 +187,15 @@
   object-fit: cover;
 }
 
+.macbook-air .img {
+  position: absolute;
+  width: 340px;
+  height: 467px;
+  top: 400px;
+  left: 200px;
+  object-fit: cover;
+}
+
 .macbook-air .overlap-2 {
   position: absolute;
   width: 1280px;
