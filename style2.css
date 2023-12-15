@@ -1,4 +1,4 @@
-.macbook-air {
+.page2 {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.macbook-air .div {
+.page2 .div {
   background-color: #ffffff;
   overflow: hidden;
   width: 1280px;
@@ -14,7 +14,7 @@
   position: relative;
 }
 
-.macbook-air .navbar {
+.page2 .navbar {
   position: absolute;
   width: 1280px;
   height: 73px;
@@ -22,7 +22,7 @@
   left: 0;
 }
 
-.macbook-air .rectangle {
+.page2 .rectangle {
   position: absolute;
   width: 1280px;
   height: 68px;
@@ -30,7 +30,7 @@
   left: 0;
 }
 
-.macbook-air .text-menu {
+.page2 .contact {
   width: 106px;
   top: 13px;
   left: 1103px;
@@ -43,7 +43,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-menu-2 {
+.page2 .encheres {
   width: 130px;
   top: 13px;
   left: 949px;
@@ -57,7 +57,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-menu-3 {
+.page2 .oeuvres {
   width: 106px;
   top: 14px;
   left: 811px;
@@ -70,7 +70,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-menu-4 {
+.page2 .artistes {
   width: 106px;
   top: 14px;
   left: 673px;
@@ -83,7 +83,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-menu-5 {
+.page2 .actualites {
   width: 131px;
   top: 14px;
   left: 495px;
@@ -96,7 +96,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-menu-6 {
+.page2 .nom {
   position: absolute;
   width: 275px;
   top: 14px;
@@ -109,7 +109,7 @@
   line-height: normal;
 }
 
-.macbook-air .d-removebg-preview {
+.page2 .logo {
   position: absolute;
   width: 137px;
   height: 73px;
@@ -118,7 +118,7 @@
   object-fit: cover;
 }
 
-.macbook-air .overlap-group {
+.page2 .overlap-group {
   position: absolute;
   width: 779px;
   height: 542px;
@@ -126,7 +126,7 @@
   left: 18px;
 }
 
-.macbook-air .text-nouveautes-7 {
+.page2 .nouveautes {
   position: absolute;
   width: 580px;
   top: 0;
@@ -139,7 +139,7 @@
   line-height: normal;
 }
 
-.macbook-air .merello {
+.page2 .merelloimg {
   position: absolute;
   width: 340px;
   height: 461px;
@@ -148,7 +148,7 @@
   object-fit: cover;
 }
 
-.macbook-air .exp-von-jawlensky {
+.page2 .jawlensky {
   position: absolute;
   width: 340px;
   height: 461px;
@@ -157,7 +157,7 @@
   object-fit: cover;
 }
 
-.macbook-air .overlap {
+.page2 .overlap {
   position: absolute;
   width: 779px;
   height: 593px;
@@ -165,7 +165,7 @@
   left: 18px;
 }
 
-.macbook-air .text-selection-8 {
+.page2 .selection {
   position: absolute;
   width: 508px;
   top: 0;
@@ -178,25 +178,26 @@
   line-height: normal;
 }
 
-.macbook-air .image {
-  position: absolute;
-  width: 340px;
+.page2 .image {
   height: 467px;
   top: 126px;
   left: 439px;
-  object-fit: cover;
-}
-
-.macbook-air .img .image-5{
   position: absolute;
   width: 340px;
-  height: 467px;
-  top: 2000px;
-  left: 200px;
   object-fit: cover;
 }
 
-.macbook-air .overlap-2 {
+
+.page2 .img {
+  height: 460px;
+  top: 126px;
+  left: 38px;
+  position: absolute;
+  width: 340px;
+  object-fit: cover;
+}
+
+.page2 .overlap-2 {
   position: absolute;
   width: 1280px;
   height: 480px;
@@ -205,7 +206,7 @@
   background-color: #961515;
 }
 
-.macbook-air .text-contact-9 {
+.page2 .contact {
   position: absolute;
   top: 239px;
   left: 841px;
@@ -217,7 +218,7 @@
   line-height: normal;
 }
 
-.macbook-air .du-lundi-au-samedi {
+.page2 .lundi {
   position: absolute;
   width: 374px;
   top: 101px;
@@ -230,7 +231,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-horaires-10 {
+.page2 .horaires {
   position: absolute;
   width: 374px;
   top: 31px;
@@ -244,7 +245,7 @@
   white-space: nowrap;
 }
 
-.macbook-air .text-galerie-11 {
+.page2 .galerie {
   position: absolute;
   width: 374px;
   top: 34px;
@@ -258,7 +259,7 @@
   white-space: nowrap;
 }
 
-.macbook-air .element-rue-de-la-r {
+.page2 .adresse {
   position: absolute;
   width: 374px;
   top: 98px;
@@ -272,7 +273,7 @@
   white-space: nowrap;
 }
 
-.macbook-air .text-directeur-12 {
+.page2 .directeur {
   position: absolute;
   top: 317px;
   left: 841px;
@@ -284,16 +285,16 @@
   line-height: normal;
 }
 
-.macbook-air .anxiety {
+.page2 .anxiety {
   position: absolute;
   width: 340px;
   height: 461px;
-  top: 500px;
-  left: 1000px;
+  top: 252px;
+  left: 860px;
   object-fit: cover;
 }
 
-.macbook-air .merello-huile-sur {
+.page2 .merello {
   position: absolute;
   width: 350px;
   top: 764px;
@@ -306,7 +307,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-prix-13 {
+.page2 .prix1 {
   position: absolute;
   top: 847px;
   left: 50px;
@@ -318,7 +319,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-prix-14 {
+.page2 .prix2 {
   width: 51px;
   top: 847px;
   left: 457px;
@@ -331,7 +332,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-prix-15 {
+.page2 .prix3 {
   width: 63px;
   top: 846px;
   left: 864px;
@@ -344,7 +345,7 @@
   line-height: normal;
 }
 
-.macbook-air .alexej-von-jawlensky {
+.page2 .alexej {
   position: absolute;
   width: 350px;
   top: 745px;
@@ -357,7 +358,7 @@
   line-height: normal;
 }
 
-.macbook-air .edvard-munch-huile {
+.page2 .munch {
   position: absolute;
   width: 350px;
   top: 760px;
@@ -370,7 +371,7 @@
   line-height: normal;
 }
 
-.macbook-air .pablo-picasso-huile {
+.page2 .pablo {
   position: absolute;
   width: 148px;
   top: 1592px;
@@ -383,7 +384,7 @@
   line-height: normal;
 }
 
-.macbook-air .ernst-ludwig {
+.page2 .ludwig {
   position: absolute;
   width: 196px;
   top: 1598px;
@@ -395,7 +396,7 @@
   letter-spacing: 0;
   line-height: normal;
 }
-.macbook-air .vincent-van-gogh {
+.page2 .gogh {
  top: 1600px;
   left: 56px;
   position: absolute;
@@ -407,7 +408,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-prix-16 {
+.page2 .prix4 {
   width: 101px;
   top: 1680px;
   left: 868px;
@@ -420,7 +421,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-prix-17 {
+.page2 .prix5 {
   width: 84px;
   top: 1680px;
   left: 56px;
@@ -433,7 +434,7 @@
   line-height: normal;
 }
 
-.macbook-air .text-prix-18 {
+.page2 .prix6 {
   width: 84px;
   top: 1680px;
   left: 457px;
@@ -444,4 +445,13 @@
   color: #000000;
   letter-spacing: 0;
   line-height: normal;
+}
+
+.page2 .image-2 {
+  height: 467px;
+  top: 1100px;
+  left: 856px;
+  position: absolute;
+  width: 340px;
+  object-fit: cover;
 }
