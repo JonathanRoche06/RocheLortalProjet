@@ -463,3 +463,49 @@
   width: 340px;
   object-fit: cover;
 }
+
+@media only screen and (max-width: 320px) {
+  .page2 .div {
+    width: 100%; 
+  }
+
+  .page2 .contact,
+  .page2 .encheres,
+  .page2 .oeuvres,
+  .page2 .artistes,
+  .page2 .actualites,
+  .page2 .nom,
+  .page2 .logo,
+  .page2 .overlap-group,
+  .page2 .nouveautes,
+  .page2 .merelloimg,
+  .page2 .jawlensky,
+  .page2 .overlap,
+  .page2 .selection,
+  .page2 .image,
+  .page2 .image2,
+  .page2 .img,
+  .page2 .overlap-2,
+  .page2 .contact,
+  .page2 .lundi,
+  .page2 .horaires,
+  .page2 .galerie,
+  .page2 .adresse,
+  .page2 .directeur,
+  .page2 .anxiety,
+  .page2 .merello,
+  .page2 .prix1,
+  .page2 .prix2,
+  .page2 .prix3,
+  .page2 .alexej,
+  .page2 .munch,
+  .page2 .pablo,
+  .page2 .ludwig,
+  .page2 .gogh,
+  .page2 .prix4,
+  .page2 .prix5,
+  .page2 .prix6,
+  .page2 .image-2 {
+    width: 100%;
+  }
+}
