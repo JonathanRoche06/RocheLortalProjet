@@ -259,3 +259,34 @@ textarea {
 button {
   margin-left: 0.5em;
 }
+
+@media only screen and (max-width: 320px) {
+  .page3 .div {
+    width: 100%; 
+  }
+
+  .page3 .navbar,
+  .page3 .rectangle {
+    width: 100%; 
+  }
+
+  .page3 .contact,
+  .page3 .encheres,
+  .page3 .oeuvres,
+  .page3 .artistes,
+  .page3 .actualites,
+  .page3 .nom,
+  .page3 .logo,
+  .page3 .notre-adresse,
+  .page3 .overlap,
+  .page3 .overlap-group,
+  .page3 .rectangle-2,
+  .page3 .overlap-2,
+  .page3 .rectangle-3,
+  .page3 .p,
+  .page3 .overlap-3,
+  .page3 .rectangle-4 {
+    width: 100%;
+    left: 0; 
+  }
+}
