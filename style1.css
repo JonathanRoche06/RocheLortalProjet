@@ -527,3 +527,56 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
+@media only screen and (max-width: 320px) {
+.body {
+  margin: auto;
+}
+
+.accueil-dekstop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  width: 100%;
+}
+
+.accueil-dekstop .div {
+  background-color: #ffffff;
+  width: 100%; 
+  height: auto; 
+  position: relative;
+}
+
+  .accueil-dekstop .text-wrapper,
+  .accueil-dekstop .text-wrapper-2,
+  .accueil-dekstop .text-wrapper-3,
+  .accueil-dekstop .text-wrapper-4,
+  .accueil-dekstop .text-wrapper-5,
+  .accueil-dekstop .text-wrapper-6,
+  .accueil-dekstop .text-wrapper-7,
+  .accueil-dekstop .du-lundi-au-samedi,
+  .accueil-dekstop .text-wrapper-8,
+  .accueil-dekstop .text-wrapper-9,
+  .accueil-dekstop .element-rue-de-la-r,
+  .accueil-dekstop .text-wrapper-10,
+  .accueil-dekstop .text-wrapper-11,
+  .accueil-dekstop .text-wrapper-12,
+  .accueil-dekstop .text-wrapper-13,
+  .accueil-dekstop .text-wrapper-14,
+  .accueil-dekstop .text-wrapper-15,
+  .accueil-dekstop .text-wrapper-16,
+  .accueil-dekstop .text-wrapper-17,
+  .accueil-dekstop .text-wrapper-18,
+  .accueil-dekstop .element,
+  .accueil-dekstop .text-wrapper-19,
+  .accueil-dekstop .element-chagall,
+  .accueil-dekstop .element-eeafe-a-ea,
+  .accueil-dekstop .serge-poliakoff,
+  .accueil-dekstop .marc-chagall,
+  .accueil-dekstop .element-vfurtwfs,
+  .accueil-dekstop .text-wrapper-20,
+  .accueil-dekstop .text-wrapper-21 {
+    font-size: 18px;
+  }
+}
